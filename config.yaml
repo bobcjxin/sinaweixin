@@ -1,0 +1,8 @@
+name: bobcjxin
+version: 1
+libraries:
+- name: webpy
+  wersion: "0.36"
+  
+- name: lxml
+  version: "2.3.4"
